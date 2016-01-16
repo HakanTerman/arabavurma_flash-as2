@@ -1,0 +1,14 @@
+soldan gelenler
+lf1
+lf2
+lf3
+lf4
+lf5
+
+
+sagdan gelenler
+rl1
+rl2
+rl3
+rl4
+rl5
